@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "do_ctrl.h": "c",
+        "can.h": "c",
+        "rs232_422_485.h": "c"
+    }
+}
